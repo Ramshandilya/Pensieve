@@ -4,3 +4,14 @@ language = "en"
 multilingual = false
 src = "src"
 title = "Pensieve"
+
+[output.html]
+no-section-label = true
+default-theme = "ayu"
+curly-quotes = true
+git-repository-url = "https://github.com/Ramshandilya/Pensieve"
+git-repository-icon = "fa-github"
+
+[output.html.fold]
+enable = false
+level = 0
