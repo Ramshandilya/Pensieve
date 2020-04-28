@@ -9,3 +9,7 @@
         - [Branching](./programming/git/branching.md)
         - [Commit Messages](./programming/git/commit-messages.md)
         - [Rebase](./programming/git/rebase.md)
+- [Software](./software/index.md)
+    - [Security](./software/security/index.md)        
+        - [Cryptography](./software/security/cryptography.md)
+            - [Zero-Knowledge Proofs](./software/security/zkp.md)
