@@ -9,6 +9,7 @@
         - [Branching](./programming/git/branching.md)
         - [Commit Messages](./programming/git/commit-messages.md)
         - [Rebase](./programming/git/rebase.md)
+- [Computer Science](./computer-science/index.md)        
 - [💻Software](./software/index.md)
     - [🔒Security](./software/security/index.md)    
  - [⛓Blockchain & Cryptocurrency](./blockchain-cryptocurrency/index.md)
